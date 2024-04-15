@@ -1,0 +1,14 @@
+C:\Users\Админ\Desktop\Разработка\Homework\hw3\bin\Debug\net8.0\hw3.exe
+C:\Users\Админ\Desktop\Разработка\Homework\hw3\bin\Debug\net8.0\hw3.deps.json
+C:\Users\Админ\Desktop\Разработка\Homework\hw3\bin\Debug\net8.0\hw3.runtimeconfig.json
+C:\Users\Админ\Desktop\Разработка\Homework\hw3\bin\Debug\net8.0\hw3.dll
+C:\Users\Админ\Desktop\Разработка\Homework\hw3\bin\Debug\net8.0\hw3.pdb
+C:\Users\Админ\Desktop\Разработка\Homework\hw3\obj\Debug\net8.0\hw3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\Разработка\Homework\hw3\obj\Debug\net8.0\hw3.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\Разработка\Homework\hw3\obj\Debug\net8.0\hw3.AssemblyInfo.cs
+C:\Users\Админ\Desktop\Разработка\Homework\hw3\obj\Debug\net8.0\hw3.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\Разработка\Homework\hw3\obj\Debug\net8.0\hw3.dll
+C:\Users\Админ\Desktop\Разработка\Homework\hw3\obj\Debug\net8.0\refint\hw3.dll
+C:\Users\Админ\Desktop\Разработка\Homework\hw3\obj\Debug\net8.0\hw3.pdb
+C:\Users\Админ\Desktop\Разработка\Homework\hw3\obj\Debug\net8.0\hw3.genruntimeconfig.cache
+C:\Users\Админ\Desktop\Разработка\Homework\hw3\obj\Debug\net8.0\ref\hw3.dll

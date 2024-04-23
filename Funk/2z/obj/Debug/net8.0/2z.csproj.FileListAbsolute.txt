@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\HomWor\Funk\2z\obj\Debug\net8.0\2z.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\HomWor\Funk\2z\obj\Debug\net8.0\2z.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\HomWor\Funk\2z\obj\Debug\net8.0\2z.AssemblyInfo.cs
+C:\Users\Админ\Desktop\HomWor\Funk\2z\obj\Debug\net8.0\2z.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\HomWor\Funk\2z\obj\Debug\net8.0\2z.sourcelink.json
+C:\Users\Админ\Desktop\HomWor\Funk\2z\bin\Debug\net8.0\2z.exe
+C:\Users\Админ\Desktop\HomWor\Funk\2z\bin\Debug\net8.0\2z.deps.json
+C:\Users\Админ\Desktop\HomWor\Funk\2z\bin\Debug\net8.0\2z.runtimeconfig.json
+C:\Users\Админ\Desktop\HomWor\Funk\2z\bin\Debug\net8.0\2z.dll
+C:\Users\Админ\Desktop\HomWor\Funk\2z\bin\Debug\net8.0\2z.pdb
+C:\Users\Админ\Desktop\HomWor\Funk\2z\obj\Debug\net8.0\2z.dll
+C:\Users\Админ\Desktop\HomWor\Funk\2z\obj\Debug\net8.0\refint\2z.dll
+C:\Users\Админ\Desktop\HomWor\Funk\2z\obj\Debug\net8.0\2z.pdb
+C:\Users\Админ\Desktop\HomWor\Funk\2z\obj\Debug\net8.0\2z.genruntimeconfig.cache
+C:\Users\Админ\Desktop\HomWor\Funk\2z\obj\Debug\net8.0\ref\2z.dll

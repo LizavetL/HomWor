@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\HomWor\avtotestMyVer\obj\Debug\net8.0\avtotestMyVer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\HomWor\avtotestMyVer\obj\Debug\net8.0\avtotestMyVer.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\HomWor\avtotestMyVer\obj\Debug\net8.0\avtotestMyVer.AssemblyInfo.cs
+C:\Users\Админ\Desktop\HomWor\avtotestMyVer\obj\Debug\net8.0\avtotestMyVer.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\HomWor\avtotestMyVer\obj\Debug\net8.0\avtotestMyVer.sourcelink.json
+C:\Users\Админ\Desktop\HomWor\avtotestMyVer\bin\Debug\net8.0\avtotestMyVer.exe
+C:\Users\Админ\Desktop\HomWor\avtotestMyVer\bin\Debug\net8.0\avtotestMyVer.deps.json
+C:\Users\Админ\Desktop\HomWor\avtotestMyVer\bin\Debug\net8.0\avtotestMyVer.runtimeconfig.json
+C:\Users\Админ\Desktop\HomWor\avtotestMyVer\bin\Debug\net8.0\avtotestMyVer.dll
+C:\Users\Админ\Desktop\HomWor\avtotestMyVer\bin\Debug\net8.0\avtotestMyVer.pdb
+C:\Users\Админ\Desktop\HomWor\avtotestMyVer\obj\Debug\net8.0\avtotestMyVer.dll
+C:\Users\Админ\Desktop\HomWor\avtotestMyVer\obj\Debug\net8.0\refint\avtotestMyVer.dll
+C:\Users\Админ\Desktop\HomWor\avtotestMyVer\obj\Debug\net8.0\avtotestMyVer.pdb
+C:\Users\Админ\Desktop\HomWor\avtotestMyVer\obj\Debug\net8.0\avtotestMyVer.genruntimeconfig.cache
+C:\Users\Админ\Desktop\HomWor\avtotestMyVer\obj\Debug\net8.0\ref\avtotestMyVer.dll

@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\HomWor\stringHW\obj\Debug\net8.0\stringHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\HomWor\stringHW\obj\Debug\net8.0\stringHW.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\HomWor\stringHW\obj\Debug\net8.0\stringHW.AssemblyInfo.cs
+C:\Users\Админ\Desktop\HomWor\stringHW\obj\Debug\net8.0\stringHW.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\HomWor\stringHW\obj\Debug\net8.0\stringHW.sourcelink.json
+C:\Users\Админ\Desktop\HomWor\stringHW\bin\Debug\net8.0\stringHW.exe
+C:\Users\Админ\Desktop\HomWor\stringHW\bin\Debug\net8.0\stringHW.deps.json
+C:\Users\Админ\Desktop\HomWor\stringHW\bin\Debug\net8.0\stringHW.runtimeconfig.json
+C:\Users\Админ\Desktop\HomWor\stringHW\bin\Debug\net8.0\stringHW.dll
+C:\Users\Админ\Desktop\HomWor\stringHW\bin\Debug\net8.0\stringHW.pdb
+C:\Users\Админ\Desktop\HomWor\stringHW\obj\Debug\net8.0\stringHW.dll
+C:\Users\Админ\Desktop\HomWor\stringHW\obj\Debug\net8.0\refint\stringHW.dll
+C:\Users\Админ\Desktop\HomWor\stringHW\obj\Debug\net8.0\stringHW.pdb
+C:\Users\Админ\Desktop\HomWor\stringHW\obj\Debug\net8.0\stringHW.genruntimeconfig.cache
+C:\Users\Админ\Desktop\HomWor\stringHW\obj\Debug\net8.0\ref\stringHW.dll
